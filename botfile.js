@@ -6,7 +6,7 @@ module.exports = {
     Botpress minimal supported version.
     Don't forget to change it when updating to the next major version.
    */
-  version: '10.30.0',
+  version: '10.51.10',
 
   /*
     The bot's base URL where the bot is reachable from the internet
